@@ -1,0 +1,53 @@
+﻿state_fips,acs_state_name,median_household_income,poverty_rate_pct,bachelor_or_higher_pct,total_population,acs_year,acs_source
+01,Alabama,59609,15.7,27.2,5028092,2022,ACS 2022 5-year Data Profile
+02,Alaska,86370,10.5,30.7,734821,2022,ACS 2022 5-year Data Profile
+04,Arizona,72581,13.1,31.8,7172282,2022,ACS 2022 5-year Data Profile
+05,Arkansas,56335,16.2,24.7,3018669,2022,ACS 2022 5-year Data Profile
+06,California,91905,12.1,35.9,39356104,2022,ACS 2022 5-year Data Profile
+08,Colorado,87598,9.6,43.7,5770790,2022,ACS 2022 5-year Data Profile
+09,Connecticut,90213,10.1,41.4,3611317,2022,ACS 2022 5-year Data Profile
+10,Delaware,79325,11.1,34.5,993635,2022,ACS 2022 5-year Data Profile
+11,District of Columbia,101722,15.1,62.6,670587,2022,ACS 2022 5-year Data Profile
+12,Florida,67917,12.9,32.3,21634529,2022,ACS 2022 5-year Data Profile
+13,Georgia,71355,13.5,33.6,10722325,2022,ACS 2022 5-year Data Profile
+15,Hawaii,94814,9.6,34.7,1450589,2022,ACS 2022 5-year Data Profile
+16,Idaho,70214,11.0,30.2,1854109,2022,ACS 2022 5-year Data Profile
+17,Illinois,78433,11.8,36.7,12757634,2022,ACS 2022 5-year Data Profile
+18,Indiana,67173,12.3,28.2,6784403,2022,ACS 2022 5-year Data Profile
+19,Iowa,70571,11.1,30.3,3188836,2022,ACS 2022 5-year Data Profile
+20,Kansas,69747,11.6,34.7,2935922,2022,ACS 2022 5-year Data Profile
+21,Kentucky,60183,16.1,26.5,4502935,2022,ACS 2022 5-year Data Profile
+22,Louisiana,57852,18.7,26.1,4640546,2022,ACS 2022 5-year Data Profile
+23,Maine,68251,10.9,34.1,1366949,2022,ACS 2022 5-year Data Profile
+24,Maryland,98461,9.3,42.2,6161707,2022,ACS 2022 5-year Data Profile
+25,Massachusetts,96505,9.9,45.9,6984205,2022,ACS 2022 5-year Data Profile
+26,Michigan,68505,13.1,31.1,10057921,2022,ACS 2022 5-year Data Profile
+27,Minnesota,84313,9.3,38.2,5695292,2022,ACS 2022 5-year Data Profile
+28,Mississippi,52985,19.2,23.9,2958846,2022,ACS 2022 5-year Data Profile
+29,Missouri,65920,12.8,31.2,6154422,2022,ACS 2022 5-year Data Profile
+30,Montana,66341,12.4,34.0,1091840,2022,ACS 2022 5-year Data Profile
+31,Nebraska,71722,10.4,33.5,1958939,2022,ACS 2022 5-year Data Profile
+32,Nevada,71646,12.7,26.5,3104817,2022,ACS 2022 5-year Data Profile
+33,New Hampshire,90845,7.3,39.0,1379610,2022,ACS 2022 5-year Data Profile
+34,New Jersey,97126,9.7,42.3,9249063,2022,ACS 2022 5-year Data Profile
+35,New Mexico,58722,18.3,29.1,2112463,2022,ACS 2022 5-year Data Profile
+36,New York,81386,13.6,38.8,19994379,2022,ACS 2022 5-year Data Profile
+37,North Carolina,66186,13.3,33.9,10470214,2022,ACS 2022 5-year Data Profile
+38,North Dakota,73959,10.8,31.4,776874,2022,ACS 2022 5-year Data Profile
+39,Ohio,66990,13.3,30.4,11774683,2022,ACS 2022 5-year Data Profile
+40,Oklahoma,61364,15.2,27.3,3970497,2022,ACS 2022 5-year Data Profile
+41,Oregon,76632,11.9,35.5,4229374,2022,ACS 2022 5-year Data Profile
+42,Pennsylvania,73170,11.8,33.8,12989208,2022,ACS 2022 5-year Data Profile
+44,Rhode Island,81370,11.2,36.3,1094250,2022,ACS 2022 5-year Data Profile
+45,South Carolina,63623,14.4,30.6,5142750,2022,ACS 2022 5-year Data Profile
+46,South Dakota,69457,12.3,30.4,890342,2022,ACS 2022 5-year Data Profile
+47,Tennessee,64035,14.0,29.7,6923772,2022,ACS 2022 5-year Data Profile
+48,Texas,73035,13.9,32.3,29243342,2022,ACS 2022 5-year Data Profile
+49,Utah,86833,8.5,36.1,3283809,2022,ACS 2022 5-year Data Profile
+50,Vermont,74014,10.4,41.7,643816,2022,ACS 2022 5-year Data Profile
+51,Virginia,87249,10.0,41.0,8624511,2022,ACS 2022 5-year Data Profile
+53,Washington,90325,9.9,38.0,7688549,2022,ACS 2022 5-year Data Profile
+54,West Virginia,55217,16.8,22.7,1792967,2022,ACS 2022 5-year Data Profile
+55,Wisconsin,72458,10.7,32.0,5882128,2022,ACS 2022 5-year Data Profile
+56,Wyoming,72495,10.7,29.0,577929,2022,ACS 2022 5-year Data Profile
+72,Puerto Rico,24002,42.2,,3272382,2022,ACS 2022 5-year Data Profile

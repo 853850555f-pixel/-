@@ -1,0 +1,7 @@
+﻿file,caption_cn
+figure1_data_flow.png,图1 数据选择与匹配流程：展示 ADDM ASD 数据、EPA PM2.5 数据如何通过县/县组匹配形成分析样本。
+figure2_addm_ranked_pm25_asd.png,图2 ADDM 地区描述图：按 PM2.5 暴露水平排序，同时展示各地区 ASD 患病率。
+figure3_main_addm_scatter.png,图3 主结果散点图：11 个 ADDM 监测地区中，PM2.5 与 ASD 患病率呈显著正相关。
+figure4_sensitivity_scatter.png,图4 敏感性分析散点图：排除边界不确定地区后，PM2.5-ASD 正相关仍明显。
+figure5_correlation_comparison.png,图5 相关系数比较：比较 ADDM 主样本、敏感性样本和州级补充样本的相关强度。
+figure6_state_supplement_scatter.png,图6 州级补充分析：51 个州级地区中，PM2.5 与 ASD 患病率呈较弱但显著的正相关。
